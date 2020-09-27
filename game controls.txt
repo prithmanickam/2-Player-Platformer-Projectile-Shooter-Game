@@ -1,0 +1,14 @@
+Controls
+
+player 1 
+-left and right arrowkeys for movement 
+-up arrow key to jump
+-down arrowkey to shoot projectile
+
+player2
+-'a' and 'd' for movement
+-'w' to jump
+-'s' to shoot projectile
+
+
+'x' to leave game

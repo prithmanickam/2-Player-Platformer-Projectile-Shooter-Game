@@ -1,0 +1,6 @@
+time=15
+rounds=10
+sound=6
+music=3
+keysP1=left/right/blank/blank/blank/blank/blank/
+keysP2=a/d/blank/blank/blank/blank/blank/

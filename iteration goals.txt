@@ -1,0 +1,35 @@
+Iteration goals
+
+iteration 1
+-	Set screen resolution
+-	Get all pages linked to each other
+-	Create read and write function for config
+-	Refresh the screen the clear the background
+
+iteration 2
+-	Create the menu screen
+      o	Use up and down arrow keys to highlight in red each of the option
+      o	Pressing enter from the highlighted option take user to the respective screen
+-	Create fight module independent from the game
+      o	Square block moving left and right 
+      o	Square block stop moving past borders
+
+iteration 3 & 4:
+- 	Create the config screen
+-	Create game screen 
+      o	Create two character (player 1 and 2)  that can move (Find and only use free assets, if not make own one(s) them)
+
+iteration 5
+-	Get sprites on the game screen and animated when key is pressed 
+
+iteration 6
+-	Collisions of sprites
+-	Jumping
+-	Platforms (collision of them to when players jump on them)
+
+
+iteration 7
+-	Collisions of sprites
+-	Jumping
+
+
