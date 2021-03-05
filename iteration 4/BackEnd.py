@@ -133,7 +133,7 @@ def createConfigPage(page):
 def createCreditsPage(page):
 	page.connectedPages = []
 
-	options = ["by Manickam", " ", " ", "Code algorithms by David Perryman", "Pygame_functions etc"]
+	options = ["by Prith Manickam", " ", " ", "Pygame_functions etc"]
 
 	for option in options:
 		page.connectedPages.append(Page(option, option))
